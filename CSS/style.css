@@ -1,0 +1,19 @@
+html {
+    font-size: 1em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#titulo-nombre { text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+
+}
+
+h1 {
+    background: orchid; font-size: 3em; font-style: italic;
+
+
+}
+
+h2 {
+    color:rgb(60, 50, 136);
+    background: rgb(241, 230, 230);
+}
